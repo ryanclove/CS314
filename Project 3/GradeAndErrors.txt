@@ -1,0 +1,111 @@
+Additional instructor's comments about your submission:
+Okay.
+
+All text below this point was generated automatically.
+
+Testing first required kernel...
+-Testing case 1
+-Testing case 2
+-Testing case 3
+-Testing case 4
+-Testing case 5
+-Testing case 6
+-Testing case 7
+-Testing case 8
+-Testing case 9
+-Testing case 10
+-Testing case 11
+-Testing case 12
+-Testing case 13
+-Testing case 14
+-Testing case 15
+-Testing case 16
+-Testing case 17
+-Testing case 18
+-Testing case 19
+-Testing case 20
+Testing second required kernel...
+-Testing case 1
+-Testing case 2
+-Testing case 3
+-Testing case 4
+-Testing case 5
+-Testing case 6
+-Testing case 7
+-Testing case 8
+-Testing case 9
+-Testing case 10
+-Testing case 11
+-Testing case 12
+-Testing case 13
+-Testing case 14
+-Testing case 15
+-Testing case 16
+-Testing case 17
+-Testing case 18
+-Testing case 19
+-Testing case 20
+Testing third required kernel...
+-Testing case 1
+-Testing case 2
+-Testing case 3
+-Testing case 4
+-Testing case 5
+-Testing case 6
+-Testing case 7
+-Testing case 8
+-Testing case 9
+-Testing case 10
+-Testing case 11
+-Testing case 12
+-Testing case 13
+-Testing case 14
+-Testing case 15
+-Testing case 16
+-Testing case 17
+-Testing case 18
+-Testing case 19
+-Testing case 20
+Testing onewaywrapper.cu... (first 10 test cases only)
+-Testing case 1
+-Testing case 2
+-Testing case 3
+-Testing case 4
+-Testing case 5
+-Testing case 6
+-Testing case 7
+-Testing case 8
+-Testing case 9
+-Testing case 10
+Testing submission with all submitted files (but extra credit disabled)...
+-Testing case 1
+-Testing case 2
+-Testing case 3
+-Testing case 4
+-Testing case 5
+-Testing case 6
+-Testing case 7
+-Testing case 8
+-Testing case 9
+-Testing case 10
+-Testing case 11
+-Testing case 12
+-Testing case 13
+-Testing case 14
+-Testing case 15
+-Testing case 16
+-Testing case 17
+-Testing case 18
+-Testing case 19
+-Testing case 20
+Extra credit was not attempted!!!
+Ari's grading script has finished running for current student.
+
+Summary:
+-Kernel #1 passed all tests
+-Kernel #2 passed all tests
+-Kernel #3 passed all tests
+-Onewaywrapper passed all tests
+-Program tested as a whole passed all tests
+-Could not test extra credit.
+-Extra credit program passed 0 tests fully, 0 at least partly
